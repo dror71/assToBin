@@ -1,2 +1,2 @@
 # assToBin
-parser from Assembly to Bin file
+parser Assembly code file to Bin file
